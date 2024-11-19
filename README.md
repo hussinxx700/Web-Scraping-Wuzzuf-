@@ -1,7 +1,5 @@
 # **Machine Learning Jobs Dashboard**
 
-![Dashboard Preview](./assets/ScreenshotWebapp.png)
-
 ## **Overview**
 
 🤖 **Machine Learning Jobs @ Wuzzuf** is a Python-based project that scrapes job data from [Wuzzuf.com](https://wuzzuf.net/) and displays it in an interactive **Streamlit Dashboard**. The app allows users to explore job listings in the Machine Learning field, providing detailed information about companies, locations, skills, and more.
