@@ -31,7 +31,7 @@ The project directory is organized as follows:
 ├── assets/                 # Folder containing screenshots or media files
 │   └── dashboard_screenshot.png  # Example screenshot of the dashboard
 └── README.md               # Project documentation
+```
+## **Web App Preview**
 
-
----
-
+![Dashboard Preview](./assets/ScreenshotWebapp.png)
