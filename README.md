@@ -38,4 +38,4 @@ The project directory is organized as follows:
 
 Check out the live version of the app hosted on Streamlit:
 
-[Machine Learning Jobs Dashboard]([https://my-app.streamlit.app](https://inwrknjwa2nsgvcmhapdhs.streamlit.app/))
+[Machine Learning Jobs Dashboard](https://my-app.streamlit.app](https://inwrknjwa2nsgvcmhapdhs.streamlit.app/))
