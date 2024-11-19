@@ -33,3 +33,9 @@ The project directory is organized as follows:
 ## **Web App Preview**
 
 ![Dashboard Preview](./assets/ScreenshotWebapp.png)
+
+## Live Demo
+
+Check out the live version of the app hosted on Streamlit:
+
+[Machine Learning Jobs Dashboard]([https://my-app.streamlit.app](https://inwrknjwa2nsgvcmhapdhs.streamlit.app/))
