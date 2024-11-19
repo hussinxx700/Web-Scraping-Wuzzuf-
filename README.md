@@ -1,6 +1,6 @@
 # **Machine Learning Jobs Dashboard**
 
-![Dashboard Preview](.assets/Screenshot_of_webapp.png)
+![Dashboard Preview](./assets/ScreenshotWebapp.png)
 
 ## **Overview**
 
