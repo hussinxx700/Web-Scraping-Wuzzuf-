@@ -1,6 +1,6 @@
 # **Machine Learning Jobs Dashboard**
 
-![Dashboard Preview](.assets/Screenshot of webapp.png)
+![Dashboard Preview](.assets/Screenshot_of_webapp.png)
 
 ## **Overview**
 
@@ -27,7 +27,7 @@ The project directory is organized as follows:
 .
 ├── App.py                  # Main Streamlit dashboard script
 ├── jobs.csv                # The scraped job data file
-├── requirements.txt        # Python dependencies for the project
+├── requirements.txt        # Python dependencies for the project (e.g., Streamlit, pandas, BeautifulSoup, selenium)
 ├── assets/                 # Folder containing screenshots or media files
 │   └── dashboard_screenshot.png  # Example screenshot of the dashboard
 └── README.md               # Project documentation
